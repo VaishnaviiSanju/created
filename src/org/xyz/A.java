@@ -8,6 +8,9 @@ private void Sysout() {
 private void add() {
 	System.out.println("b");
 }
+private void mul() {
+	System.out.println("b");
+}
 public static void main(String[] args) {
 	A a = new A();
 	a.Sysout();
